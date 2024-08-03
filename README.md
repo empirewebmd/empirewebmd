@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @empirewebmd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in working as a mern stack developer
+- 🌱 I’m currently learning MERN STACK
+- 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me .bubmellz1born@gmail.com..
 
 <!---
